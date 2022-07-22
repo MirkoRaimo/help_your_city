@@ -20,4 +20,4 @@ Grazie alle segnalazioni dei cittadini, l'amministrazione locale potrebbe interv
 Per aiutare i propri cittadini, potrebbe essere presente una vetrina dove vengono mostrate le attività commerciali aperte da poco in città.
 Così facendo, i cittadini verrebbero a conoscenza delle nuove proposte, il comune potrebbe mettere in mostra la propria dinamicità ed infine il neo imprenditore otterrebbe dell'ottima visibilità.
 <p>
-<img src="https://github.com/MirkoRaimo/help_your_city/blob/master/assets/images/app_basic_concept.gif" height="500">
+<img src="https://github.com/MirkoRaimo/help_your_city/blob/main/assets/images/app_basic_concept.gif" height="500">
