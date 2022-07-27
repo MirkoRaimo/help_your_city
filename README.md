@@ -2,7 +2,7 @@
 
 
 
-<b>Help your city!</b> è un app pensata per poter mettere il cittadino in contatto diretto con gli amministratori del proprio comune!
+<b>Help your city!</b> è un'app pensata per poter mettere il cittadino in contatto diretto con gli amministratori del proprio comune!
 
 
 
